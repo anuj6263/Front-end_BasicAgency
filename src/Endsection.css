@@ -1,0 +1,19 @@
+.endsection{
+    display: flex;
+    height: 300px;
+    width: 1500px;
+}
+
+.heading{
+    margin-right: 55rem;
+}
+
+.social-media{
+    display: flex;
+    justify-content: space-between;
+    font-size: xx-large;
+}
+
+.social-media:hover{
+    text-decoration: underline;
+}

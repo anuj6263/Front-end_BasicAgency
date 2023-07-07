@@ -1,0 +1,71 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.buttons{
+    display: flex;
+}
+
+.logo{
+    
+    font-size: 20px;
+    border: 0;
+}
+
+.nav:focus{
+    border: none;
+    outline: none;
+}
+
+.buttons{
+
+    margin-left: 4.3rem;
+    padding: 10px;
+}
+
+.work{
+
+    color: #FFFDFA;
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.buttons button:hover{
+    text-decoration: underline;
+}
+
+.abouts{
+    
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.news{
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.thinking{
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.pledge{
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.careers{
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.contact{
+    margin-left: 4.3rem;
+    border: 0;
+}
+
+.nav :hover{
+    cursor: pointer;
+}

@@ -1,0 +1,100 @@
+.content{
+    display: flex;
+    margin-top: 5rem;
+    font-size: large;
+}
+
+.logo{
+    background: black;
+    margin-left: 5rem;
+    height: fit-content;
+    width: fit-content;
+}
+
+.information{
+    font-size: 2rem;
+    padding: 5px;
+    margin-bottom: 100px;
+    color: white;
+}
+
+.description{
+    font-size: xx-large large;
+}
+
+.second-margin{
+    margin-left: 230px;
+    margin-right: 120px;
+}
+
+.about{
+    font-size: x-large;
+    cursor: pointer;
+    border: 1px solid white;
+    border-radius: 30px;
+    margin-left: 0;
+}
+
+.view{
+    cursor: pointer;
+    border-radius: 15px;
+}
+
+.news-items:hover{
+    text-decoration: underline;
+}
+
+.news-items{
+    display: flex;
+    justify-content: space-between;
+    margin-right: 55rem;
+}
+
+.news{
+    margin-bottom: 20px;
+    justify-content: space-between;
+    display: flex;
+    margin-left: 0;
+    margin-top: 50px;
+}
+
+.below-final{
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.pantagonia-des{
+    margin-left: 2rem;
+}
+
+.startups-des{
+    display: flex;
+    justify-content: space-between;
+}
+
+.startups{
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-description{
+    display: inline-flex;
+}
+
+.adventures{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.information:hover{
+    cursor: pointer;
+    background-color: gray;
+    border: none;
+}
+
+.information:focus{
+    border: none;
+    outline: none;
+}
